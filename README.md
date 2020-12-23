@@ -1,4 +1,6 @@
 # Taller1
-#ESTE TALLER FUE REALIZADO POR CAMILO GARCIA EN CONJUNTO CON EL PROFESOR ANDRES GONZALEZ MANCERA PARA EL CURSO DE HERRAMIENTAS COMPUTACIONALES DE LA UNIVERSIDAD DE LOS ANDES.
-#EL OBJETIVO DE ESTE TALLER ES ANALIZAR LAS BASES DE DATOS DEL CLIMA DE DOS FUENTES DIFERENTES (NREL E IDEAM)
-#LA IDEA ES HACER UN LIMPIEZA Y ALISTAMIENTO DE LAS 2 BASES DE DATOS, REALIZAR UN ANALISIS Y COMPARACION ENTRE LAS 2 Y POR ULTIMO REALIZAR EL CALCULO DE LA ENFICC en plantas solares fotovoltaicas
+#Este taller fue ralizado por Camilo Garcia en conjunto con el profesor Andres Gonzales para el curso Herramientas Computacionales de la Universidad de los Andes.
+
+
+#El objetivo de este taller es analizar las bases de datos del clima de dos fuentes diferentes (NREL y IDEAM).
+#La idea es hacer una alistamiento de las bases de datos, realizar un analisis y comparacion entre las 2 y por ultimo realizar el caclulo de la ENFICC en plantas solares fotovoltaicas
